@@ -26,6 +26,4 @@
   <a href = "mailto:contatorafaeldps2013@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-santos-249604a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/rafaelps15/rafaelps15/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
