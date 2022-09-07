@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Analista de Suporte
 - 🌱 Estudando C#, Java, HTML e Css
-- 👯 A tua mente, atualmente, atua ou mente?
+- 🥸 A tua mente, atualmente, atua ou mente?
 
 <div align="center">
   <a href="https://github.com/rafaelps15">
