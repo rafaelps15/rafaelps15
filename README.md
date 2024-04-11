@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rafael de Paula👋
 
-- Hoje trabalho como Analista de Suporte
+- Em busca e oportunidade para aplicar meus conhecimentos
 - Estudando C#
 - A tua mente, atualmente, atua ou mente?
 
