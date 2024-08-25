@@ -8,7 +8,7 @@
 </p>
 
 <br>
-My name is Rafael de Paula, I am a Software Development student, passionate about technology and learning new technologies. I am an apprentice in Back-End, with skills in C#.
+My name is Rafael de Paula, I am a Software Development graduate, passionate about technology and learning new technologies. I am an apprentice in Back-End, with skills in C#.
 </br>
 
 <br>
