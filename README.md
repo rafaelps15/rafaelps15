@@ -18,6 +18,7 @@ My name is Rafael de Paula, I am a Software Development graduate, passionate abo
 
 <br />
 
+![.NET](https://img.shields.io/badge/.NET-292D3E?style=flat&logo=.NET&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23%20-292D3E?style=flat&logo=c-sharp&logoColor=884DC4)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-292D3E?style=flat&logo=microsoft-sql-server)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-292D3E?style=flat&logo=MySQL)&nbsp;
