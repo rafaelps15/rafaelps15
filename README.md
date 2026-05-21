@@ -18,21 +18,17 @@ Meu nome é Rafael, sou formado em Análise e Desenvolvimento de Sistemas, apaix
 
 <br />
 
-![C#](https://img.shields.io/badge/C%23-292D3E?style=flat&logo=c-sharp&logoColor=884DC4)
-![.NET Core](https://img.shields.io/badge/.NET_Core-292D3E?style=flat&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-292D3E?style=flat&logo=aspdotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-292D3E?style=flat&logo=entity-framework&logoColor=green)
-![Web API](https://img.shields.io/badge/Web_API-292D3E?style=flat&logo=api&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQLServer-292D3E?style=flat&logo=microsoft-sql-server)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-292D3E?style=flat&logo=architecture&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-292D3E?style=flat&logo=design&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-292D3E?style=flat&logo=blazor&logoColor=blue)
-![Git](https://img.shields.io/badge/-Git-292D3E?style=flat&logo=git)
-![LINQ](https://img.shields.io/badge/LINQ-292D3E?style=flat&logo=linq&logoColor=green)
-![RESTful Services](https://img.shields.io/badge/RESTful_Services-292D3E?style=flat&logo=api&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-292D3E?style=flat&logo=github)
-![SQL](https://img.shields.io/badge/-SQL-292D3E?style=flat&logo=sql)
-![Angular](https://img.shields.io/badge/Angular-292D3E?style=flat&logo=angular&logoColor=red)
+![C#](https://img.shields.io/badge/C%23-292D3E?style=flat&logo=csharp&logoColor=884DC4)
+![.NET](https://img.shields.io/badge/.NET-292D3E?style=flat&logo=dotnet&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-292D3E?style=flat&logo=fastapi&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-292D3E?style=flat&logo=.net&logoColor=green)
+![SQL Server](https://img.shields.io/badge/SQL_Server-292D3E?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292D3E?style=flat&logo=postgresql&logoColor=336791)
+![Docker](https://img.shields.io/badge/Docker-292D3E?style=flat&logo=docker&logoColor=2496ED)
+![xUnit](https://img.shields.io/badge/xUnit-292D3E?style=flat&logo=xamarin&logoColor=white)
+![Git](https://img.shields.io/badge/Git-292D3E?style=flat&logo=git&logoColor=F05032)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-292D3E?style=flat&logo=googlecloud&logoColor=4285F4)
+
 <br />
 
 ## &#x1f4c8; Estatísticas do GitHub
