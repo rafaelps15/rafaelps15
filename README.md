@@ -1,4 +1,3 @@
-```md id="rafael-readme-pro"
 <div align="center">
 
 # Rafael de Paula
