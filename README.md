@@ -8,7 +8,7 @@
 </p>
 
 <br>
-Meu nome é Rafael, sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e por aprender novas tecnologias. Sou aprendiz na área de Back-End, com habilidades em .NET
+Meu nome é Rafael, sou formado em Análise e Desenvolvimento de Sistemas e tenho grande interesse em tecnologia, desenvolvimento de software e aprendizado contínuo. Atualmente atuo na área de Back-End, com foco em desenvolvimento de aplicações utilizando .NET, APIs REST e bancos de dados relacionais. Estou sempre buscando evoluir minhas habilidades técnicas, aprender novas tecnologias e construir soluções eficientes, escaláveis e de qualidade.
 </br>
 
 <br>
