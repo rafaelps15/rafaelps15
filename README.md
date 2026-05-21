@@ -16,7 +16,7 @@ Desenvolvedor Back-End focado em APIs escaláveis, aplicações performáticas e
   <a href="https://git.io/streak-stats">
     <img 
       alt="GitHub Streak" 
-      src="http://github-readme-streak-stats.herokuapp.com?user=rafaelps15&theme=merko&hide_border=true&background=00000000"
+      src="http://github-readme-streak-stats.herokuapp.com?user=rafaelps15&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br&background=DD272700"
     />
   </a>
 </p>
@@ -30,8 +30,8 @@ Desenvolvedor Back-End focado em APIs escaláveis, aplicações performáticas e
 Back-End Developer com experiência em:
 
 - Desenvolvimento de APIs REST com .NET
-- Arquitetura limpa e organização de aplicações escaláveis
-- Entity Framework e modelagem de bancos relacionais
+- Arquitetura limpa e aplicações escaláveis
+- Entity Framework e modelagem de dados
 - SQL Server e PostgreSQL
 - Testes automatizados com xUnit
 - Containerização com Docker
@@ -46,7 +46,7 @@ Back-End Developer com experiência em:
 - Construção de APIs REST robustas e escaláveis
 - Estruturação de projetos utilizando Clean Architecture
 - Integração entre aplicações e serviços externos
-- Desenvolvimento orientado a performance e manutenção
+- Desenvolvimento orientado a performance
 - Aplicação de boas práticas e código limpo
 
 ---
@@ -71,20 +71,8 @@ Back-End Developer com experiência em:
 - Evoluindo arquitetura e escalabilidade de APIs
 - Aperfeiçoando padrões de Clean Architecture
 - Melhorando performance e modelagem de dados
-- Fortalecendo testes automatizados e qualidade de código
+- Fortalecendo testes automatizados
 - Expandindo conhecimentos em cloud e containers
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelps15&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelps15&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
