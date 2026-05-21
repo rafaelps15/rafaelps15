@@ -87,4 +87,26 @@ Back-End Developer com experiência em:
 </p>
 
 ---
-```
+
+---
+
+## 📬 If You’re Hiring
+
+Se você procura um desenvolvedor que:
+
+- Desenvolve APIs REST com .NET
+- Se preocupa com código limpo e boas práticas
+- Trabalha com bancos relacionais e modelagem de dados
+- Busca performance, escalabilidade e evolução contínua
+- Tem foco em construir soluções simples, sólidas e sustentáveis
+
+Vamos conversar.
+
+<p align="center">
+<a href="https://wa.me/55SEUNUMEROAQUI" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    alt="WhatsApp"
+  />
+</a>
+</p>
