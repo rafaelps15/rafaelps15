@@ -2,10 +2,10 @@
 
 # Rafael de Paula
 
-### Back-End Developer | .NET | APIs REST | Clean Architecture
+### **Back-End Developer | .NET | APIs REST | Clean Architecture**
 
 <p>
-Desenvolvedor Back-End focado em APIs escaláveis, aplicações performáticas e boas práticas de engenharia de software utilizando .NET.
+Desenvolvedor Back-End com foco em .NET, APIs REST e bancos de dados relacionais, criando aplicações organizadas, performáticas e escaláveis.
 </p>
 
 <p>
@@ -16,7 +16,7 @@ Desenvolvedor Back-End focado em APIs escaláveis, aplicações performáticas e
   <a href="https://git.io/streak-stats">
     <img 
       alt="GitHub Streak" 
-      src="http://github-readme-streak-stats.herokuapp.com?user=rafaelps15&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br&background=DD272700"
+      src="http://github-readme-streak-stats.herokuapp.com?user=rafaelps15&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br&background=00000000"
     />
   </a>
 </p>
@@ -25,33 +25,47 @@ Desenvolvedor Back-End focado em APIs escaláveis, aplicações performáticas e
 
 ---
 
-## ⚙️ Engineering Profile
+## 🧩 Engineering Profile
 
 Back-End Developer com experiência em:
 
 - Desenvolvimento de APIs REST com .NET
-- Arquitetura limpa e aplicações escaláveis
+- Clean Architecture e organização de aplicações
 - Entity Framework e modelagem de dados
 - SQL Server e PostgreSQL
 - Testes automatizados com xUnit
 - Containerização com Docker
-- Versionamento e colaboração com Git
+- Versionamento com Git
 
-> Desenvolvendo soluções escaláveis, performáticas e preparadas para crescimento.
+> Sempre buscando evoluir tecnicamente e construir soluções eficientes e sustentáveis.
 
 ---
 
-## 🚀 Selected Strengths
+## 🧠 Core Engineering Strengths
 
-- Construção de APIs REST robustas e escaláveis
-- Estruturação de projetos utilizando Clean Architecture
-- Integração entre aplicações e serviços externos
-- Desenvolvimento orientado a performance
+- API REST Development
+- Clean Architecture
+- Relational Database Modeling
+- Performance Optimization
+- Automated Testing
+- System Integration
+- Software Engineering Best Practices
+
+---
+
+## 🏗 Selected Experience
+
+- Desenvolvimento de APIs REST utilizando .NET
+- Integração com APIs e serviços externos
 - Aplicação de boas práticas e código limpo
+- Desenvolvimento focado em performance e manutenção
+- Estruturação de aplicações escaláveis
 
 ---
 
-## 🛠 Technology Stack
+## ⚒ Technology Stack
+
+<p align="left">
 
 ![C#](https://img.shields.io/badge/C%23-292D3E?style=flat&logo=csharp&logoColor=884DC4)
 ![.NET](https://img.shields.io/badge/.NET-292D3E?style=flat&logo=dotnet&logoColor=white)
@@ -64,49 +78,34 @@ Back-End Developer com experiência em:
 ![Git](https://img.shields.io/badge/Git-292D3E?style=flat&logo=git&logoColor=F05032)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-292D3E?style=flat&logo=googlecloud&logoColor=4285F4)
 
----
-
-## 📈 What I'm Currently Focused On
-
-- Evoluindo arquitetura e escalabilidade de APIs
-- Aperfeiçoando padrões de Clean Architecture
-- Melhorando performance e modelagem de dados
-- Fortalecendo testes automatizados
-- Expandindo conhecimentos em cloud e containers
+</p>
 
 ---
 
-## 📬 Contact
+## 📚 Current Learning & Focus
+
+- Arquitetura e escalabilidade de APIs
+- Performance e modelagem de dados
+- Testes automatizados
+- Cloud e containers
+- Clean Architecture
+
+---
+
+## 🤝 Let’s Connect
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/rafael-de-paula-249604a3" target="_blank">
   <img 
     src="https://img.shields.io/badge/LinkedIn-292D3E?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
   />
 </a>
-</p>
 
----
-
----
-
-## 📬 If You’re Hiring
-
-Se você procura um desenvolvedor que:
-
-- Desenvolve APIs REST com .NET
-- Se preocupa com código limpo e boas práticas
-- Trabalha com bancos relacionais e modelagem de dados
-- Busca performance, escalabilidade e evolução contínua
-- Tem foco em construir soluções simples, sólidas e sustentáveis
-
-Vamos conversar.
-
-<p align="center">
-<a href="https://wa.me/55SEUNUMEROAQUI" target="_blank">
+<a href="https://wa.me/5512992350660" target="_blank">
   <img 
-    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-    alt="WhatsApp"
+    src="https://img.shields.io/badge/WhatsApp-292D3E?style=for-the-badge&logo=whatsapp&logoColor=25D366"
   />
 </a>
+
 </p>
